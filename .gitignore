@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 数据与输出（体积大，按需本地保留）
+data/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
